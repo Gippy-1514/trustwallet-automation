@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\us\\Downloads\\sample-mobile-framework-main\\sample-mobile-framework-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\us\\Downloads\\sample-mobile-framework-main\\sample-mobile-framework-main\\src\\main\\java\\pages\\WelcomePage.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\pages\\WelcomePage.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\us\\Downloads\\sample-mobile-framework-main\\sample-mobile-framework-main\\pom.xml||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pom.xml||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\us\\Downloads\\sample-mobile-framework-main\\sample-mobile-framework-main\\src\\main\\java\\utils\\DriverUtils.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\utils\\DriverUtils.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\us\\Downloads\\sample-mobile-framework-main\\sample-mobile-framework-main\\src\\main\\java\\pages\\CreateWalletPage.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\pages\\CreateWalletPage.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\us\\Downloads\\sample-mobile-framework-main\\sample-mobile-framework-main\\src\\test\\java\\tests\\CreateWalletTest.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\test\\java\\tests\\CreateWalletTest.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\us\\Downloads\\sample-mobile-framework-main\\sample-mobile-framework-main\\src\\main\\java\\pages\\BasePage.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\pages\\BasePage.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\us\\Downloads\\sample-mobile-framework-main\\sample-mobile-framework-main\\src\\test\\java\\tests\\BaseTest.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\test\\java\\tests\\BaseTest.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\us\\Downloads\\sample-mobile-framework-main\\sample-mobile-framework-main\\src\\test\\java\\tests\\WelcomeTest.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\test\\java\\tests\\WelcomeTest.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 147,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 358,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BasePage.java",
+              "DocumentMoniker": "C:\\Users\\us\\Downloads\\sample-mobile-framework-main\\sample-mobile-framework-main\\src\\main\\java\\pages\\BasePage.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\pages\\BasePage.java",
+              "ToolTip": "C:\\Users\\us\\Downloads\\sample-mobile-framework-main\\sample-mobile-framework-main\\src\\main\\java\\pages\\BasePage.java",
+              "RelativeToolTip": "src\\main\\java\\pages\\BasePage.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-12T17:50:25.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseTest.java",
+              "DocumentMoniker": "C:\\Users\\us\\Downloads\\sample-mobile-framework-main\\sample-mobile-framework-main\\src\\test\\java\\tests\\BaseTest.java",
+              "RelativeDocumentMoniker": "src\\test\\java\\tests\\BaseTest.java",
+              "ToolTip": "C:\\Users\\us\\Downloads\\sample-mobile-framework-main\\sample-mobile-framework-main\\src\\test\\java\\tests\\BaseTest.java",
+              "RelativeToolTip": "src\\test\\java\\tests\\BaseTest.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T10:23:50.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateWalletTest.java",
+              "DocumentMoniker": "C:\\Users\\us\\Downloads\\sample-mobile-framework-main\\sample-mobile-framework-main\\src\\test\\java\\tests\\CreateWalletTest.java",
+              "RelativeDocumentMoniker": "src\\test\\java\\tests\\CreateWalletTest.java",
+              "ToolTip": "C:\\Users\\us\\Downloads\\sample-mobile-framework-main\\sample-mobile-framework-main\\src\\test\\java\\tests\\CreateWalletTest.java",
+              "RelativeToolTip": "src\\test\\java\\tests\\CreateWalletTest.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-12T15:22:01.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateWalletPage.java",
+              "DocumentMoniker": "C:\\Users\\us\\Downloads\\sample-mobile-framework-main\\sample-mobile-framework-main\\src\\main\\java\\pages\\CreateWalletPage.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\pages\\CreateWalletPage.java",
+              "ToolTip": "C:\\Users\\us\\Downloads\\sample-mobile-framework-main\\sample-mobile-framework-main\\src\\main\\java\\pages\\CreateWalletPage.java",
+              "RelativeToolTip": "src\\main\\java\\pages\\CreateWalletPage.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-12T15:23:16.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DriverUtils.java",
+              "DocumentMoniker": "C:\\Users\\us\\Downloads\\sample-mobile-framework-main\\sample-mobile-framework-main\\src\\main\\java\\utils\\DriverUtils.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\utils\\DriverUtils.java",
+              "ToolTip": "C:\\Users\\us\\Downloads\\sample-mobile-framework-main\\sample-mobile-framework-main\\src\\main\\java\\utils\\DriverUtils.java",
+              "RelativeToolTip": "src\\main\\java\\utils\\DriverUtils.java",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-12T14:56:14.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pom.xml",
+              "DocumentMoniker": "C:\\Users\\us\\Downloads\\sample-mobile-framework-main\\sample-mobile-framework-main\\pom.xml",
+              "RelativeDocumentMoniker": "pom.xml",
+              "ToolTip": "C:\\Users\\us\\Downloads\\sample-mobile-framework-main\\sample-mobile-framework-main\\pom.xml",
+              "RelativeToolTip": "pom.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-12T16:49:17.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WelcomePage.java",
+              "DocumentMoniker": "C:\\Users\\us\\Downloads\\sample-mobile-framework-main\\sample-mobile-framework-main\\src\\main\\java\\pages\\WelcomePage.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\pages\\WelcomePage.java",
+              "ToolTip": "C:\\Users\\us\\Downloads\\sample-mobile-framework-main\\sample-mobile-framework-main\\src\\main\\java\\pages\\WelcomePage.java",
+              "RelativeToolTip": "src\\main\\java\\pages\\WelcomePage.java",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T10:12:28.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WelcomeTest.java",
+              "DocumentMoniker": "C:\\Users\\us\\Downloads\\sample-mobile-framework-main\\sample-mobile-framework-main\\src\\test\\java\\tests\\WelcomeTest.java",
+              "RelativeDocumentMoniker": "src\\test\\java\\tests\\WelcomeTest.java",
+              "ToolTip": "C:\\Users\\us\\Downloads\\sample-mobile-framework-main\\sample-mobile-framework-main\\src\\test\\java\\tests\\WelcomeTest.java",
+              "RelativeToolTip": "src\\test\\java\\tests\\WelcomeTest.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T10:14:20.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

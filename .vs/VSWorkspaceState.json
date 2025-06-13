@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\pages",
+    "\\src\\main\\java\\utils",
+    "\\src\\test",
+    "\\src\\test\\java",
+    "\\src\\test\\java\\tests"
+  ],
+  "SelectedNode": "\\src\\test\\java\\tests\\CreateWalletTest.java",
+  "PreviewInSolutionExplorer": false
+}
